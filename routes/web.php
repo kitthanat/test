@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/test', function () {
     return "Hello World!!!";
 });
+Route::get('/123', function () {
+    return "Hello World!!!";
+});
